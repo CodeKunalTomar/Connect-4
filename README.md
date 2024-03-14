@@ -21,7 +21,7 @@ Connect-4 is a classic two-player board game where players take turns dropping c
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Connect-4.git
+git clone https://github.com/CodeKunalTomar/Connect-4.git
 ```
 
 2. Open the project directory:
