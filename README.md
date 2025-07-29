@@ -20,10 +20,7 @@
 </p>
 
 <p align="center">
-  <strong><a href="https://codekunaltomar.github.io/Connect-4/">🎮 Live Deployment</a></strong> |
-  <strong><a href="#-comparative-technical-architecture">🔬 Technical Architecture</a></strong> |
-  <strong><a href="#-performance-metrics-and-benchmarking">📊 Benchmarking Data</a></strong> |
-  <strong><a href="#-historical-context-and-academic-precedent">📚 Academic Context</a></strong>
+  <strong><a href="https://opticonnect.vercel.app/">🎮 Live Deployment</a></strong>
 </p>
 
 ---
